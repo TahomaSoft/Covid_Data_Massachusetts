@@ -1,0 +1,7 @@
+"","Date","First_Doses_Administered","Second_Doses_Administered","Total_Doses_Administered","location","location_type","location_code","location_code_type","data_type","value"
+"1","12/17/20",94,0,94,"Massachusetts","state","25","fips_code","vaccination_doses_administered",94
+"2","12/24/20",35524,0,35524,"Massachusetts","state","25","fips_code","vaccination_doses_administered",35524
+"3","12/31/20",32590,0,32590,"Massachusetts","state","25","fips_code","vaccination_doses_administered",32590
+"4","01/07/21",49184,1213,50397,"Massachusetts","state","25","fips_code","vaccination_doses_administered",50397
+"5","01/14/21",52239,31673,83912,"Massachusetts","state","25","fips_code","vaccination_doses_administered",83912
+"6","01/21/21",NA,NA,86230,"Massachusetts","state","25","fips_code","vaccination_doses_administered",86230
